@@ -8,7 +8,7 @@ This repository includes the main topics of practical classes and provides MATLA
 Respecting the privacy of the course material, the problem statements are only available on WeBeep. But the provided functions are capable of solving the majority of practices.
 
 ## Disclaimer
-Although these codes work for a variety of situations, they codes are just for guidance, and it is highly recommended to read and evaluate them carefully.
+Although these codes work for a variety of situations, they are just for guidance, and it is highly recommended to read and evaluate them carefully.
 
 ## Notes:
 - The Antoine function is written using natural logarithm regarding the question if you have to work with 10 log base, change `log` to `log10` and change `exp(.)` to `10.^(.)`. 
